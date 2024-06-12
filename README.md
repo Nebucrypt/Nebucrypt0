@@ -26,3 +26,4 @@ Nebucrypto
 - word 24
 - word 25
 - word 26
+- word 27
