@@ -104,3 +104,4 @@ Nebucrypto
 - word 103
 - word 104
 - word 105
+- word 106
